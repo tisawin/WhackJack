@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Whack</string>
+    <string name="emptyhole"> </string>
+    <string name="scoreTitle">Score</string>
+    <string name="scorePoints">0</string>
+    <string name="timerTitle">Timer</string>
+    <string name="timerTime">30</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="spinner_title">Select Difficulty:</string>
+    <string name="starttext">Start Game</string>
+    <string name="stats">Score Stats</string>
+
+</resources>
